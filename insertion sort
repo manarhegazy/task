@@ -40,7 +40,7 @@ namespace insertion_sort
                 Console.Write(arr[i] + " ");
             }
             Console.ReadLine();
-        }
+        } 
       
 
     }
